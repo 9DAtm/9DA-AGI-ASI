@@ -1,5 +1,5 @@
 
-> **[▶ Watch Live Demo: 9DA™ NINE FIELDS](https://9datm.github.io/9DA-AGI-ASI/demo_nine_fields.html)**
+> **[▶ Watch Live Demo: 9DA™ NINE FIELDS](https://9datm.github.io/9DA-AGI-ASI/demos/9da-episodic-v1-governance-self-test/demo_nine_fields.html)**
 
 demos consists of:
 
@@ -61,5 +61,6 @@ All annexes are normative.
 
 
 © 2025 Zdenka Cucin. All Rights Reserved.
+
 
 
