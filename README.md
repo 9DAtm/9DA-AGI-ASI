@@ -1,14 +1,14 @@
 
 > **[▶ Watch Live Demo: 9DA™ NINE FIELDS](https://9datm.github.io/9DA-AGI-ASI/demos/9da-episodic-v1-governance-self-test/demo_nine_fields.html)**
 
-demos consists of:
+demo consists of:
 
 HTML frontend - Interactive, browser-based visualization
 
 Python backend - Computational engine with full governance layer
 
 
-9DA™ AGI/ASI Protocol
+**9DA™ AGI/ASI Protocol**   
 
 This repository defines a certification standard for AGI and ASI classification
 
@@ -61,6 +61,7 @@ All annexes are normative.
 
 
 © 2025 Zdenka Cucin. All Rights Reserved.
+
 
 
 
