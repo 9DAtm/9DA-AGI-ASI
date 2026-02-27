@@ -7,19 +7,18 @@ HTML frontend - Interactive, browser-based visualization
 
 Python backend - Computational engine with full governance layer
 
-This software is licensed under the 9DA™ Proprietary License. 
-
-See LICENSE for full terms. For commercial licensing enquiries, contact info@9da.org
-
-**[▶ License: 9DA™ Proprietary](https://github.com/9DAtm/9DA-AGI-ASI/blob/main/9DA_Proprietary_License.md)**
-
-
 **9DA™ AGI/ASI Protocol**   
 
 This repository defines a certification standard for AGI and ASI classification
 
 based on termination discipline, non-sovereignty, and verifiable silence.
 
+
+This software is licensed under the 9DA™ Proprietary License. 
+
+See LICENSE for full terms. For commercial licensing enquiries, contact info@9da.org
+
+**[▶ License: 9DA™ Proprietary](https://github.com/9DAtm/9DA-AGI-ASI/blob/main/9DA_Proprietary_License.md)**
 
 
 This repository does NOT:
@@ -67,6 +66,7 @@ All annexes are normative.
 
 
 © 2025 Zdenka Cucin. All Rights Reserved.
+
 
 
 
